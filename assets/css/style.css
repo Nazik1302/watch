@@ -98,6 +98,17 @@ p {
 	font-family: var(--thm-font);
 	font-weight: 400;
 }
+.new-price {
+	font-size:28px;
+	font-weight:900;
+	font-family:"Oswald"
+}
+.old-price {
+	font-size:18px;
+	font-weight:500;
+	font-family:"Oswald";
+	text-decoration:line-through
+}
 img {
 	max-width: 100%;
 	height: auto;
